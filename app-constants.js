@@ -1,0 +1,11 @@
+const VERIFIED = 'VERIFIED';
+const UNVERIFIED = 'UNVERIFIED';
+const INCOMPLETE_DATA = 'INCOMPLETE DATA';
+
+const ERROR = 'error';
+
+module.exports = {
+	VERIFIED,
+	UNVERIFIED,
+	ERROR
+};
