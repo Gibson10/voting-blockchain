@@ -19,7 +19,7 @@
     "fast-csv": "^2.4.1",
     "lodash": "^4.17.11",
     "nodemailer-promise": "^2.0.0",
-    "papaparse": "^4.6.1",
+    "papaparse": "^5.2.0",
     "request": "^2.88.0",
     "uuid": "^3.3.2",
     "ws": "^6.0.0"
